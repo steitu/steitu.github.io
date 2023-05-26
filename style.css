@@ -151,3 +151,7 @@ section#ommig {
     background: linear-gradient(rgba(0, 0, 0, var(--darken-background)), rgba(0, 0, 0, var(--darken-background))),
         no-repeat center/cover url(images/20221001_123316.jpg);
 }
+
+section#ommig h2 {
+    margin-top: 80ch;
+}
